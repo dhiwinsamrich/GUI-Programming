@@ -11,7 +11,7 @@ Welcome to the GUI Programming repository! This repository hosts a variety of pr
 ---
 
 ## 📂 Projects
-
+**DAY - 1**
 1. **Age Calculator**  
    - Develops a GUI application to calculate the age of a person based on their birthdate, providing an intuitive interface for users to input their birthdate and receive their age as output.
 
