@@ -12,18 +12,25 @@ Welcome to the GUI Programming repository! This repository hosts a variety of pr
 
 ## 📂 Projects
 **DAY - 1**
-1. **Age Calculator**  
-   - Develops a GUI application to calculate the age of a person based on their birthdate, providing an intuitive interface for users to input their birthdate and receive their age as output.
 
-2. **Alarm Clock App**  
-   - Creates an alarm clock application with a graphical user interface, allowing users to set alarms, choose alarm tones, and manage their alarm schedule in a user-friendly manner.
+1️⃣ Age Calculator: Ever wondered exactly how many days you've been on this planet? This nifty tool will tell you in a snap!
 
-3. **Button in Game**  
-   - Integrates buttons into a game interface, enhancing user interaction by providing clickable elements to perform in-game actions or navigate through menus.
+2️⃣ Alarm Clock App: Say goodbye to groggy mornings with this customizable alarm clock that wakes you up right on time, every time!
 
-4. *(More projects to come)*  
-   - Stay tuned for additional GUI programming projects to be added to this repository. There's always more to explore and create in the world of GUI development!
+3️⃣ Button in Game: Taking gaming to the next level with a simple yet addictive button-clicking game. How fast can you click? Test your skills now!
 
+**DAY - 2**
+
+4️⃣ Calculator App: From basic arithmetic to complex equations, this sleek calculator app has you covered for all your mathematical needs!
+
+5️⃣ Checkers Game: Challenge your friends or play against the computer in this classic game of strategy and skill. Are you ready to crown yourself as the ultimate checkers champion?
+
+6️⃣ Chess Game: Enter the world of kings, queens, and knights in this sophisticated chess game. Sharpen your tactics and outsmart your opponent to claim victory on the checkered battlefield!
+
+**DAY - 3**
+--Yet to come--
+
+But the excitement doesn't stop there! 🚀💼 Stay tuned as I continue to unleash more innovative projects throughout my 100-Day Code Challenge journey. The journey is just getting started!
 ---
 
 ## 🤝 Contribution
