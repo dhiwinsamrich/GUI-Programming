@@ -33,12 +33,23 @@ Welcome to the GUI Programming repository! This repository hosts a variety of pr
 
 6. **Chess App**
    - Creates a chess game application with a graphical user interface, offering features such as move validation, piece capturing, and check/checkmate detection, providing an immersive chess-playing experience.
+  
+**DAY - 3**
+     
+7. **Currency Converter GUI**
+   - Designs a currency converter application with a graphical user interface, enabling users to convert between different currencies using up-to-date exchange rates.
+
+8. **Drawing Tool in Pygame**
+   - Implements a drawing tool using the Pygame library, allowing users to create and edit digital drawings with various brushes, colors, and tools.
+
+9. **File Explorer**
+   - Develops a file explorer application with a graphical user interface, providing users with tools to navigate, view, and manage files and directories on their computer.
 
 -- *(More projects to come)*  --
    - Stay tuned for additional GUI programming projects to be added to this repository. There's always more to explore and create in the world of GUI development!
 
 
-**DAY - 3**
+**DAY - 4**
 --Yet to come--
 
 But the excitement doesn't stop there! 🚀💼 Stay tuned as I continue to unleash more innovative projects throughout my 100-Day Code Challenge journey. The journey is just getting started!
