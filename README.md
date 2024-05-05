@@ -45,12 +45,24 @@ Welcome to the GUI Programming repository! This repository hosts a variety of pr
 9. **File Explorer**
    - Develops a file explorer application with a graphical user interface, providing users with tools to navigate, view, and manage files and directories on their computer.
 
+
+**DAY - 4**
+
+10. **Flappy Bird Game**
+    - Recreates the popular Flappy Bird game with a graphical user interface, challenging players to navigate a bird through obstacles by tapping the screen or pressing keys.
+
+11. **Genderize App**
+    - Utilizes machine learning models to predict the gender of a person based on their name, providing an interactive interface for users to input names and view predicted genders.
+
+12. **GUI Language Translator**
+    - Implements a language translation application with a graphical user interface, enabling users to translate text between different languages using translation APIs or libraries.
+
+
+**DAY - 5**
+
 -- *(More projects to come)*  --
    - Stay tuned for additional GUI programming projects to be added to this repository. There's always more to explore and create in the world of GUI development!
 
-
-**DAY - 4**
---Yet to come--
 
 But the excitement doesn't stop there! 🚀💼 Stay tuned as I continue to unleash more innovative projects throughout my 100-Day Code Challenge journey. The journey is just getting started!
 ---
