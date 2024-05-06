@@ -60,6 +60,17 @@ Welcome to the GUI Programming repository! This repository hosts a variety of pr
 
 **DAY - 5**
 
+13. **Hangman Game GUI**
+    - Develops a graphical version of the classic Hangman game, allowing users to guess letters to uncover a hidden word within a limited number of attempts.
+
+14. **Image Editor**
+    - Creates a GUI-based image editing tool, providing features such as cropping, resizing, applying filters, and adding text or annotations to images.
+
+15. **Markdown Editor**
+    - Implements a graphical Markdown editor, enabling users to write and edit Markdown-formatted text with live preview and syntax highlighting features.
+
+**DAY - 6**
+
 -- *(More projects to come)*  --
    - Stay tuned for additional GUI programming projects to be added to this repository. There's always more to explore and create in the world of GUI development!
 
