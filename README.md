@@ -71,6 +71,17 @@ Welcome to the GUI Programming repository! This repository hosts a variety of pr
 
 **DAY - 6**
 
+16. **Maze Game**
+    - Designs a maze game with a graphical user interface, challenging players to navigate through a maze to reach the exit while avoiding obstacles and dead ends.
+
+17. **PDF Viewer**
+    - Develops a GUI-based PDF viewer application, allowing users to view, navigate, and annotate PDF documents with ease.
+
+18. **Planet Simulator**
+    - Creates a planet simulator application with a graphical user interface, enabling users to simulate planetary systems, explore celestial bodies, and visualize astronomical phenomena.
+
+**DAY - 7**
+
 -- *(More projects to come)*  --
    - Stay tuned for additional GUI programming projects to be added to this repository. There's always more to explore and create in the world of GUI development!
 
