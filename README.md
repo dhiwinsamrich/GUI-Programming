@@ -82,6 +82,18 @@ Welcome to the GUI Programming repository! This repository hosts a variety of pr
 
 **DAY - 7**
 
+19. **Platformer Game**
+    - Develops a platformer game with a graphical user interface, featuring side-scrolling gameplay, character movement, and obstacle avoidance challenges.
+
+20. **Python Code Editor**
+    - Implements a Python code editor with a graphical user interface, providing syntax highlighting, code completion, and other features to aid in writing and editing Python code.
+
+21. **QR Code Generator Reader GUI**
+    - Designs a GUI-based application for generating and reading QR codes, enabling users to create QR codes containing various types of data and decode QR codes from images or camera input.
+
+
+**DAY - 8**
+
 -- *(More projects to come)*  --
    - Stay tuned for additional GUI programming projects to be added to this repository. There's always more to explore and create in the world of GUI development!
 
