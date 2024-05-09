@@ -94,6 +94,17 @@ Welcome to the GUI Programming repository! This repository hosts a variety of pr
 
 **DAY - 8**
 
+22. **Realtime Spelling Checker**
+    - Develops a GUI application for real-time spell checking, providing users with suggestions and corrections as they type text.
+
+23. **Rich Text Editor**
+    - Implements a rich text editor with a graphical user interface, enabling users to format text, insert images, and apply styles such as bold, italic, and underline.
+
+24. **Slide Puzzle**
+    - Creates a slide puzzle game with a graphical user interface, challenging players to rearrange tiles to form a complete picture within a limited number of moves.
+
+**DAY - 9**
+
 -- *(More projects to come)*  --
    - Stay tuned for additional GUI programming projects to be added to this repository. There's always more to explore and create in the world of GUI development!
 
