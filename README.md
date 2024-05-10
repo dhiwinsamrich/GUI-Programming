@@ -105,6 +105,17 @@ Welcome to the GUI Programming repository! This repository hosts a variety of pr
 
 **DAY - 9**
 
+25. **Snake Game**
+    - Develops a snake game with a graphical user interface, where players control a snake to eat food and grow longer while avoiding collisions with walls and the snake's own body.
+
+26. **Spreadsheet App**
+    - Creates a spreadsheet application with a graphical user interface, allowing users to input, edit, and manipulate data in a tabular format, similar to popular spreadsheet software.
+
+27. **Tetris Game**
+    - Recreates the classic Tetris game with a graphical user interface, challenging players to manipulate falling blocks to create complete rows and clear them from the screen.
+
+**Day - 10**
+
 -- *(More projects to come)*  --
    - Stay tuned for additional GUI programming projects to be added to this repository. There's always more to explore and create in the world of GUI development!
 
