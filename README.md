@@ -116,12 +116,38 @@ Welcome to the GUI Programming repository! This repository hosts a variety of pr
 
 **Day - 10**
 
--- *(More projects to come)*  --
-   - Stay tuned for additional GUI programming projects to be added to this repository. There's always more to explore and create in the world of GUI development!
+28. **Text Editor**
+    - Implements a text editor with a graphical user interface, providing features such as syntax highlighting, code folding, and search/replace functionality for editing text files.
 
+29. **TicTacToe Game**
+    - Develops a TicTacToe game with a graphical user interface, allowing players to compete against each other or against an AI opponent in the classic game of noughts and crosses.
 
-But the excitement doesn't stop there! 🚀💼 Stay tuned as I continue to unleash more innovative projects throughout my 100-Day Code Challenge journey. The journey is just getting started!
+30. **Type Speed Tester**
+    - Creates a typing speed tester application with a graphical user interface, measuring users' typing speed and accuracy as they type a given passage of text.
+
+31. **Voice Recorder App**
+    - Develops a voice recorder application with a graphical user interface, allowing users to record audio, playback recordings, and manage recorded files.
+
+32. **World Dictionary with Audio**
+    - Designs a world dictionary application with a graphical user interface, providing definitions, translations, and pronunciations of words in multiple languages, with audio support for pronunciation.
+
 ---
+
+## 🎉 New Era
+
+This marks the end of the GUI Programming Projects Repository. Thank you to everyone who contributed, explored, and learned from this collection of projects! As we transition into a new era, stay tuned for exciting new repositories and projects to come.
+
+
+<div align="center">
+  
+---
+  
+## But the excitement doesn't stop there! 🚀💼 Stay tuned as I continue to unleash more innovative projects throughout my 100-Day Code Challenge journey. The journey is just getting started!
+
+---
+
+</div>
+
 
 ## 🤝 Contribution
 
